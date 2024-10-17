@@ -120,7 +120,7 @@
 
 ## 四、SodaCloud-不限速的按量计费机场
 
-### [1.苏打云介绍](https://go.51tz.cc/sodacloud)
+### [1.苏打云介绍](https://go.1vpn.cc/soda)
 
 Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Shadowsocks翻墙协议，专线节点，高速稳定。
 
